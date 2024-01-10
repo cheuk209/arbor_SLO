@@ -1,0 +1,1 @@
+ecr_repository_name = "my-arbor-repo"
